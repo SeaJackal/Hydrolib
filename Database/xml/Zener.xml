@@ -2,7 +2,7 @@
 <Zener xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Part>
 		<PartNumber>BZX384-C12</PartNumber>
-		<Description>Стабилитрон на 12 В, рассеиваемая мощность 0.3 Вт</Description>
+		<Description>Стабилитрон на 12 В, рассеиваемая мощность 0,3 Вт</Description>
 		<Comment>BZX384-C12</Comment>
 		<LibraryPath>Schematic\Zener.SchLib</LibraryPath>
 		<LibraryRef>Zener</LibraryRef>
