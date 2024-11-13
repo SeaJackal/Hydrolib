@@ -243,12 +243,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_8.3_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,3Ом и точностью 1 %</Description>
+		<PartNumber>Resistor_8.2_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,2Ом и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>8,3</Value>
+		<Value>8,2</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -507,12 +507,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_83_1_0603</PartNumber>
-		<Description>Резистор номиналом 83Ом и точностью 1 %</Description>
+		<PartNumber>Resistor_82_1_0603</PartNumber>
+		<Description>Резистор номиналом 82Ом и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>83</Value>
+		<Value>82</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -771,12 +771,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_830_1_0603</PartNumber>
-		<Description>Резистор номиналом 830Ом и точностью 1 %</Description>
+		<PartNumber>Resistor_820_1_0603</PartNumber>
+		<Description>Резистор номиналом 820Ом и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>830</Value>
+		<Value>820</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -1035,12 +1035,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_8.3k_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,3 кОм и точностью 1 %</Description>
+		<PartNumber>Resistor_8.2k_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,2 кОм и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>8,3 к</Value>
+		<Value>8,2 к</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -1299,12 +1299,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_83k_1_0603</PartNumber>
-		<Description>Резистор номиналом 83 кОм и точностью 1 %</Description>
+		<PartNumber>Resistor_82k_1_0603</PartNumber>
+		<Description>Резистор номиналом 82 кОм и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>83 к</Value>
+		<Value>82 к</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -1563,12 +1563,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_830k_1_0603</PartNumber>
-		<Description>Резистор номиналом 830 кОм и точностью 1 %</Description>
+		<PartNumber>Resistor_820k_1_0603</PartNumber>
+		<Description>Резистор номиналом 820 кОм и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>830 к</Value>
+		<Value>820 к</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
@@ -1827,12 +1827,12 @@
 		<FootprintRef1>0603R</FootprintRef1>
 	</Part>
 	<Part>
-		<PartNumber>Resistor_8.3M_1_0603</PartNumber>
-		<Description>Резистор номиналом 8,3 МОм и точностью 1 %</Description>
+		<PartNumber>Resistor_8.2M_1_0603</PartNumber>
+		<Description>Резистор номиналом 8,2 МОм и точностью 1 %</Description>
 		<Comment>Resistor</Comment>
 		<LibraryPath>Schematic\Resistor.SchLib</LibraryPath>
 		<LibraryRef>Resistor</LibraryRef>
-		<Value>8,3 М</Value>
+		<Value>8,2 М</Value>
 		<Tolerance>0.01</Tolerance>
 		<FootprintPath1>Footprints/Resistors/0603R.PcbLib</FootprintPath1>
 		<FootprintRef1>0603R</FootprintRef1>
