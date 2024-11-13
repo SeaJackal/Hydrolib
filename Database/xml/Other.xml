@@ -38,4 +38,13 @@
 		<FootprintPath1>Footprints\XTAL\QSMD3.2x2.5.PcbLib</FootprintPath1>
 		<FootprintRef1>QSMD3.2x2.5</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>Jumper</PartNumber>
+		<Description>Запаиваемая перемычка</Description>
+		<Comment>Jumper</Comment>
+		<LibraryPath>Schematic\Jumper.SchLib</LibraryPath>
+		<LibraryRef>Jumper</LibraryRef>
+		<FootprintPath1>Footprints\Jumper.PcbLib</FootprintPath1>
+		<FootprintRef1>Jumper</FootprintRef1>
+	</Part>
 </Other>
