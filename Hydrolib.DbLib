@@ -62,6 +62,9 @@ TableName=Other$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=139|Description0=315|Library Path0=238|Library Ref0=120|Footprint Path 10=362|Footprint Ref 10=160|Footprint Path 20=340|Footprint Ref 20=153|Comment0=116|F100=66|F110=66|F120=66|F130=66|F140=66|F150=66|F160=66|F170=66|F180=66|F190=66|F200=66
 [Table8]
 SchemaName=
 TableName=Resistors$

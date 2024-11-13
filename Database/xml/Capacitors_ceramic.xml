@@ -518,4 +518,18 @@
 		<FootprintRef1>0603C</FootprintRef1>
 		<Capacity>1000</Capacity>
 	</Part>
+	<Part>
+		<PartNumber>Capacitor_12p_10_50V_NP0_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>12 п</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>NP0</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>0.012</Capacity>
+	</Part>
 </Capacitors_ceramic>
