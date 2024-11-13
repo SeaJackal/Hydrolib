@@ -81,4 +81,13 @@
 		<FootprintPath1>Footprints\SOT223.PcbLib</FootprintPath1>
 		<FootprintRef1>SOT223</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>ICM42688P</PartNumber>
+		<Description>6 степенной инерциальный измерительный модуль, гироскоп и акселерометр</Description>
+		<Comment>ICM42688P</Comment>
+		<LibraryPath>Schematic\ICM42688P.SchLib</LibraryPath>
+		<LibraryRef>ICM42688P</LibraryRef>
+		<FootprintPath1>Footprints\LGA-14.PcbLib</FootprintPath1>
+		<FootprintRef1>LGA-14</FootprintRef1>
+	</Part>
 </Chips>
