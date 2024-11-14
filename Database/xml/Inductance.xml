@@ -8,11 +8,16 @@
 		<LibraryRef>Inductance</LibraryRef>
 		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
 		<FootprintRef1>0603L</FootprintRef1>
-		<FootprintPath2>Footprints\Inductance\1210L.PcbLib</FootprintPath2>
-		<FootprintRef2>1210L</FootprintRef2>
-		<FootprintPath3>Footprints\Inductance\1212L.PcbLib</FootprintPath3>
-		<FootprintRef3>1212L</FootprintRef3>
-		<FootprintPath4>Footprints\Inductance\12.8x12.8.PcbLib</FootprintPath4>
-		<FootprintRef4>12.8x12.8</FootprintRef4>
+		<Inductance>1</Inductance>
+		<Value>1 мк</Value>
+	</Part>
+	<Part>
+		<PartNumber>BLM18AG601SH1</PartNumber>
+		<Description>Ферритовая бусина</Description>
+		<Comment>BLM18AG601SH1</Comment>
+		<LibraryPath>Schematic\Ferrite_bead.SchLib</LibraryPath>
+		<LibraryRef>Ferrite_bead</LibraryRef>
+		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
+		<FootprintRef1>0603L</FootprintRef1>
 	</Part>
 </Inductance>
