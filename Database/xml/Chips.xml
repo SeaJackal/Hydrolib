@@ -90,4 +90,13 @@
 		<FootprintPath1>Footprints\LGA-14.PcbLib</FootprintPath1>
 		<FootprintRef1>LGA-14</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>LIS3MDL</PartNumber>
+		<Description>Магнитометр</Description>
+		<Comment>LIS3MDL</Comment>
+		<LibraryPath>Schematic\LIS3MDL.SchLib</LibraryPath>
+		<LibraryRef>LIS3MDL</LibraryRef>
+		<FootprintPath1>Footprints\LGA-12.PcbLib</FootprintPath1>
+		<FootprintRef1>LGA-12</FootprintRef1>
+	</Part>
 </Chips>

@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Inductance$
+LastFocusedTable=Capacitors$
 [Table1]
 SchemaName=
 TableName=Capacitors$
@@ -56,9 +56,6 @@ TableName=Inductance$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=141|Description0=196|Library Path0=240|Library Ref0=120|Footprint Path 10=282|Footprint Ref 10=153|Comment0=141|Inductance (uH)0=162|Value0=83
 [Table7]
 SchemaName=
 TableName=Other$
