@@ -99,4 +99,13 @@
 		<FootprintPath1>Footprints\LGA-12.PcbLib</FootprintPath1>
 		<FootprintRef1>LGA-12</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MCP2551</PartNumber>
+		<Description>Приёмопередатчик CAN</Description>
+		<Comment>MCP2551</Comment>
+		<LibraryPath>Schematic\MCP2551.SchLib</LibraryPath>
+		<LibraryRef>MCP2551</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-8</FootprintRef1>
+	</Part>
 </Chips>
