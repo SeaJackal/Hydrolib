@@ -519,6 +519,118 @@
 		<Capacity>1000</Capacity>
 	</Part>
 	<Part>
+		<PartNumber>Capacitor_1,2u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>1,2 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>1200</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_1,5u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>1,5 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>1500</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_1,8u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>1,8 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>1800</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_2,2u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>2,2 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>2200</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_2,7u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>2,7 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>2700</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_3,3u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>3,3 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>3300</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_3,9u_10_50V_X7R_0603C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>3,9 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0603C.PcbLib</FootprintPath1>
+		<FootprintRef1>0603C</FootprintRef1>
+		<Capacity>3900</Capacity>
+	</Part>
+	<Part>
+		<PartNumber>Capacitor_4,7u_10_50V_X7R_0805C</PartNumber>
+		<Description>Конденсатор</Description>
+		<Comment>Capacitor</Comment>
+		<LibraryPath>Schematic\Capacitor.SchLib</LibraryPath>
+		<LibraryRef>Capacitor</LibraryRef>
+		<Value>4,7 мк</Value>
+		<Tolerance>0.1</Tolerance>
+		<Voltage>50</Voltage>
+		<Dielectric>X7R</Dielectric>
+		<FootprintPath1>Footprints\Capacitors\0805C.PcbLib</FootprintPath1>
+		<FootprintRef1>0805C</FootprintRef1>
+		<Capacity>4700</Capacity>
+	</Part>
+	<Part>
 		<PartNumber>Capacitor_12p_10_50V_NP0_0603C</PartNumber>
 		<Description>Конденсатор</Description>
 		<Comment>Capacitor</Comment>
