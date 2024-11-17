@@ -6,8 +6,8 @@
 		<Comment>SMBJ24A</Comment>
 		<LibraryPath>Schematic\TVS\TVS_1_1dir.SchLib</LibraryPath>
 		<LibraryRef>TVS_1_1dir</LibraryRef>
-		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
-		<FootprintRef1>SOT23-3</FootprintRef1>
+		<FootprintPath1>Footprints\SMB.PcbLib</FootprintPath1>
+		<FootprintRef1>SMB</FootprintRef1>
 		<VoltageNominal>24</VoltageNominal>
 		<Power>600</Power>
 		<Value>24 В</Value>
@@ -33,5 +33,15 @@
 		<VoltageNominal>12</VoltageNominal>
 		<Power>400</Power>
 		<Value>12 В</Value>
+	</Part>
+	<Part>
+		<PartNumber>PESD2CAN</PartNumber>
+		<Description>Защитный диод для линии CAN</Description>
+		<Comment>PESD2CAN</Comment>
+		<LibraryPath>Schematic\TVS\TVS_2_1dir.SchLib</LibraryPath>
+		<LibraryRef>TVS_2_1dir</LibraryRef>
+		<FootprintPath1>Footprints\SOT23-3.PcbLib</FootprintPath1>
+		<FootprintRef1>SOT23-3</FootprintRef1>
+		<Inteface>CAN</Inteface>
 	</Part>
 </TVS>
