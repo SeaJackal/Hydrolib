@@ -169,17 +169,17 @@
 		<Capacity>68</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_100u_10_50V_TC_A</PartNumber>
+		<PartNumber>Capacitor_100u_10_10V_TC_С</PartNumber>
 		<Description>Танталовый конденсатор</Description>
 		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
 		<LibraryRef>Capacitor_polar</LibraryRef>
 		<Value>100 мк</Value>
 		<Tolerance>0.1</Tolerance>
-		<Voltage>50</Voltage>
+		<Voltage>10</Voltage>
 		<Type>Tantalum</Type>
-		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
-		<FootprintRef1>TC_A</FootprintRef1>
+		<FootprintPath1>Footprints\Capacitors\TC_С.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_С</FootprintRef1>
 		<Capacity>100</Capacity>
 	</Part>
 	<Part>
@@ -225,8 +225,8 @@
 		<Capacity>330</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_470u_10_50V_TC_A</PartNumber>
-		<Description>Танталовый конденсатор</Description>
+		<PartNumber>Capacitor_470u_10_50V_RADIAL-2_10MM</PartNumber>
+		<Description>Электролитический конденсатор</Description>
 		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
 		<LibraryRef>Capacitor_polar</LibraryRef>
@@ -234,8 +234,8 @@
 		<Tolerance>0.1</Tolerance>
 		<Voltage>50</Voltage>
 		<Type>Tantalum</Type>
-		<FootprintPath1>Footprints\Capacitors\TC_A.PcbLib</FootprintPath1>
-		<FootprintRef1>TC_A</FootprintRef1>
+		<FootprintPath1>Footprints\Capacitors\RADIAL-2_10MM.PcbLib</FootprintPath1>
+		<FootprintRef1>RADIAL-2_10MM</FootprintRef1>
 		<Capacity>470</Capacity>
 	</Part>
 	<Part>
