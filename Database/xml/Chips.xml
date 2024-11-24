@@ -108,4 +108,13 @@
 		<FootprintPath1>Footprints\SOIC-8.PcbLib</FootprintPath1>
 		<FootprintRef1>SOIC-8</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>MC74AC125DR2</PartNumber>
+		<Description>Приёмопередатчик CAN</Description>
+		<Comment>MC74AC125DR2</Comment>
+		<LibraryPath>Schematic\MC74AC125DR2.SchLib</LibraryPath>
+		<LibraryRef>MC74AC125DR2</LibraryRef>
+		<FootprintPath1>Footprints\SOIC-14.PcbLib</FootprintPath1>
+		<FootprintRef1>SOIC-14</FootprintRef1>
+	</Part>
 </Chips>

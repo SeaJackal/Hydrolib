@@ -169,7 +169,7 @@
 		<Capacity>68</Capacity>
 	</Part>
 	<Part>
-		<PartNumber>Capacitor_100u_10_10V_TC_С</PartNumber>
+		<PartNumber>Capacitor_100u_10_10V_TC_C</PartNumber>
 		<Description>Танталовый конденсатор</Description>
 		<Comment>Capacitor</Comment>
 		<LibraryPath>Schematic\Capacitor_polar.SchLib</LibraryPath>
@@ -178,8 +178,8 @@
 		<Tolerance>0.1</Tolerance>
 		<Voltage>10</Voltage>
 		<Type>Tantalum</Type>
-		<FootprintPath1>Footprints\Capacitors\TC_С.PcbLib</FootprintPath1>
-		<FootprintRef1>TC_С</FootprintRef1>
+		<FootprintPath1>Footprints\Capacitors\TC_C.PcbLib</FootprintPath1>
+		<FootprintRef1>TC_C</FootprintRef1>
 		<Capacity>100</Capacity>
 	</Part>
 	<Part>
