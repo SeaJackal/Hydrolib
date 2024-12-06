@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=D:\Sea_Jackal\Gid
 AddMode=3
 RemoveMode=2
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -19,7 +19,7 @@ LibrarySearchPath=
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=0
 SchemaName=
-LastFocusedTable=Capacitors_electrolytic$
+LastFocusedTable=Capacitors$
 [Table1]
 SchemaName=
 TableName=Capacitors$
@@ -38,9 +38,6 @@ TableName=Capacitors_electrolytic$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=323|Description0=269|Library Path0=266|Library Ref0=129|Footprint Path 10=361|Footprint Ref 10=153|Comment0=116|Value0=83|Tolerance0=114|Voltage (V)0=125|Type0=82|Capacity (u)0=130
 [Table4]
 SchemaName=
 TableName=Chips$

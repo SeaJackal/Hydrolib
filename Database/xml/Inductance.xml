@@ -20,4 +20,16 @@
 		<FootprintPath1>Footprints\Inductance\0603L.PcbLib</FootprintPath1>
 		<FootprintRef1>0603L</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>CDRH104NP-680MC</PartNumber>
+		<Description>Катушка индуктивности</Description>
+		<Comment>CDRH104NP-680MC</Comment>
+		<LibraryPath>Schematic\Inductance.SchLib</LibraryPath>
+		<LibraryRef>Inductance</LibraryRef>
+		<FootprintPath1>Footprints\Inductance\10x10L.PcbLib</FootprintPath1>
+		<FootprintRef1>10x10L</FootprintRef1>
+		<Inductance>68</Inductance>
+		<Value>68 мк</Value>
+		<Current>930</Current>
+	</Part>
 </Inductance>
