@@ -17,7 +17,7 @@
 		<Comment>LED</Comment>
 		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
 		<LibraryRef>LED</LibraryRef>
-		<FootprintPath1>Footprints\LED\LED_ANGULAR_4.PcbLib</FootprintPath1>
+		<FootprintPath1>Footprints\LED\LED_ANGULAR_2.PcbLib</FootprintPath1>
 		<FootprintRef1>0805D</FootprintRef1>
 	</Part>
 	<Part>
@@ -53,7 +53,16 @@
 		<Comment>WP934MD-LILGD</Comment>
 		<LibraryPath>Schematic\WP934MD-LILGD.SchLib</LibraryPath>
 		<LibraryRef>WP934MD-LILGD</LibraryRef>
-		<FootprintPath1>Footprints\LED\LED_ANGULAR_4.PcbLib</FootprintPath1>
-		<FootprintRef1>LED_ANGULAR_4</FootprintRef1>
+		<FootprintPath1>Footprints\LED\LED_ANGULAR_2.PcbLib</FootprintPath1>
+		<FootprintRef1>LED_ANGULAR_2</FootprintRef1>
+	</Part>
+	<Part>
+		<PartNumber>LED_ANGULAR</PartNumber>
+		<Description>Угловой светодиод</Description>
+		<Comment>LED_ANGULAR</Comment>
+		<LibraryPath>Schematic\LED.SchLib</LibraryPath>
+		<LibraryRef>LED</LibraryRef>
+		<FootprintPath1>Footprints\LED\LED_ANGULAR.PcbLib</FootprintPath1>
+		<FootprintRef1>LED_ANGULAR</FootprintRef1>
 	</Part>
 </Other>
