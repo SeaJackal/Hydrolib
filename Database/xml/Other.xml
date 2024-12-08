@@ -65,4 +65,13 @@
 		<FootprintPath1>Footprints\LED\LED_ANGULAR.PcbLib</FootprintPath1>
 		<FootprintRef1>LED_ANGULAR</FootprintRef1>
 	</Part>
+	<Part>
+		<PartNumber>B3U-3000P</PartNumber>
+		<Description>Угловая тактовая кнопка</Description>
+		<Comment>Tact_button</Comment>
+		<LibraryPath>Schematic\Tact_button.SchLib</LibraryPath>
+		<LibraryRef>Tact_button</LibraryRef>
+		<FootprintPath1>Footprints\Buttons\Buttons_SMD_4.5mm_ang.PcbLib</FootprintPath1>
+		<FootprintRef1>Buttons_SMD_4.5mm_ang</FootprintRef1>
+	</Part>
 </Other>
